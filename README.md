@@ -65,15 +65,15 @@ https://fastidious-axolotl-57b216.netlify.app/  --deployed on netlify
 
 
 #### Website Presentation :
-![Chargebee-webite](https://user-images.githubusercontent.com/103980322/208377439-5001f978-9a2a-4d20-84e1-f69d204cb28d.png)
+![Chargebee-webite](https://user-images.githubusercontent.com/103980322/208378928-b40981fa-84e5-453b-a51a-9b56b338f0c2.png)
+
+![Chargebee-webite](https://user-images.githubusercontent.com/103980322/208377462-d9d1e3c7-7bd6-4ef6-91c9-b7e6e4fbae00.png)
 
 ![Chargebee-webite](https://user-images.githubusercontent.com/103980322/208377450-ed0d2acf-3664-4d65-98f3-2c0b96643df5.png)
 
-![Chargebee-webite](https://user-images.githubusercontent.com/103980322/208377456-1638a944-88fd-4168-9bcf-95587944541b.png)
-
 ![Chargebee-webite](https://user-images.githubusercontent.com/103980322/208377459-3ffcf3e6-bbf0-4461-9cc0-94454be9d7dc.png)
 
-![Chargebee-webite](https://user-images.githubusercontent.com/103980322/208377462-d9d1e3c7-7bd6-4ef6-91c9-b7e6e4fbae00.png)
+
 ## Thank you note
 Thank you all who is giving precious time to visit our little creative project which is made with lot of efforts.
 
