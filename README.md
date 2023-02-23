@@ -37,7 +37,7 @@ https://fastidious-axolotl-57b216.netlify.app/  --deployed on netlify
 
 ## Functionality
 
-- Login/Signup by Firebase
+- Login/Signup by restApi's 
 - Authentication
 - charbee pricing page
 - customers and partners page 
